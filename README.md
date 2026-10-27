@@ -45,27 +45,6 @@ Para ver el estado del proyecto uso `git status`.
 git add .
 git commit -m "Actualiza el README"
 git push origin main
-
-¡Excelente! En la captura "image_d2fb48.png" podemos observar que pegaste el código de Markdown en el lado izquierdo y, en el panel derecho, la imagen `captura.png` se renderizó correctamente debajo de los enlaces azules.
-
-Copia y pega tu captura de pantalla dividida directamente en tu documento de Word bajo la sección del **Ejercicio 4**.
-
-Ahora pasaremos al **Ejercicio 5: Código, tablas y citas**. Este es muy importante para la documentación técnica. Sigue estos pasos en Visual Studio Code:
-
-1. **Agrega el nuevo contenido:** Copia el siguiente código y pégalo al final de tu archivo `README.md` (debajo de la línea de tu captura de pantalla):
-
-
-
-```markdown
-## Comandos que mas uso
-
-Para ver el estado del proyecto uso `git status`.
-
-```bash
-git add .
-git commit -m "Actualiza el README"
-git push origin main
-
 ```
 
 | Comando | Que hace |
@@ -76,3 +55,4 @@ git push origin main
 
 
 > Documentar es parte del trabajo, no un extra al final.
+
